@@ -1,0 +1,6 @@
+# git ignore file
+	Model/bin
+	Model/obj
+	.vs
+	OnlineShop/obj
+	OnlineShop/bin
